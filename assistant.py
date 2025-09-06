@@ -4,7 +4,7 @@ import requests, re, webbrowser
 # ================= CONFIG =================
 PASSWORD = "decken"  # Change your password here
 
-DECKEN_API_KEY = "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"
+DECKEN_API_KEY = "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"
 DECKEN_API_URL = "https://openrouter.ai/api/v1/chat/completions"
 
 WEB_APPS = {
